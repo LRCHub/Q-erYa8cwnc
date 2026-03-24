@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Boy with Luv",
+  "base_artist": "BTS",
+  "createdAt": "2026-03-24T05:33:31.968577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boy With Luv (feat. Halsey)",
+      "artist": "BTS feat. Halsey",
+      "has_synced": false,
+      "path": "select/01_Boy_With_Luv_(feat._Halsey)_BTS_feat._Halsey.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boy With Luv (Feat. Halsey)",
+      "artist": "BTS, Halsey",
+      "has_synced": true,
+      "path": "select/02_Boy_With_Luv_(Feat._Halsey)_BTS,_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boy With Luv (feat. Halsey)",
+      "artist": "BTS, Halsey",
+      "has_synced": true,
+      "path": "select/03_Boy_With_Luv_(feat._Halsey)_BTS,_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boy with Luv (feat. Halsey)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/04_Boy_with_Luv_(feat._Halsey)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boy With Luv",
+      "artist": "BTS (防弾少年団) feat. Halsey",
+      "has_synced": true,
+      "path": "select/05_Boy_With_Luv_BTS_(防弾少年団)_feat._Halsey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boy With Luv.",
+      "artist": "BTS Feat. Halsey.",
+      "has_synced": true,
+      "path": "select/06_Boy_With_Luv._BTS_Feat._Halsey..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boy With Luv (feat. Halsey)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/07_Boy_With_Luv_(feat._Halsey)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boy With Luv",
+      "artist": "BTS; Halsey",
+      "has_synced": true,
+      "path": "select/08_Boy_With_Luv_BTS;_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boy With Luv - Japanese ver.",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/09_Boy_With_Luv_-_Japanese_ver._BTS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boy With Luv",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/10_Boy_With_Luv_BTS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boy With Luv (Japanese Version)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/11_Boy_With_Luv_(Japanese_Version)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boy With luv",
+      "artist": "BTS feat. Halsey",
+      "has_synced": true,
+      "path": "select/12_Boy_With_luv_BTS_feat._Halsey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boy With Luv",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/13_Boy_With_Luv_BTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boy With Luv (Japanese Version)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/14_Boy_With_Luv_(Japanese_Version)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boy with Luv - English Version",
+      "artist": "Emma Heesters",
+      "has_synced": true,
+      "path": "select/15_Boy_with_Luv_-_English_Version_Emma_Heesters.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boy With the Blues",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/16_Boy_With_the_Blues_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Boy With the Thorn In His Side",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/17_The_Boy_With_the_Thorn_In_His_Side_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Boy With the X-Ray Eyes",
+      "artist": "Babylon Zoo",
+      "has_synced": false,
+      "path": "select/18_The_Boy_With_the_X-Ray_Eyes_Babylon_Zoo.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Boy With the Arab Strap",
+      "artist": "Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/19_The_Boy_With_the_Arab_Strap_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Boy With The Arab Strap",
+      "artist": "Belle & Sebastian",
+      "has_synced": true,
+      "path": "select/20_The_Boy_With_The_Arab_Strap_Belle_&_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Boy With The Perpetual Nervousness",
+      "artist": "The Feelies",
+      "has_synced": true,
+      "path": "select/21_The_Boy_With_The_Perpetual_Nervousness_The_Feelies.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Boy With a Coin",
+      "artist": "Iron & Wine",
+      "has_synced": true,
+      "path": "select/22_Boy_With_a_Coin_Iron_&_Wine.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Boy With the Thorn In His Side - 2017 Master",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/23_The_Boy_With_the_Thorn_In_His_Side_-_2017_Master_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Boy With the Thorn In His Side (2017 Master)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/24_The_Boy_With_the_Thorn_In_His_Side_(2017_Master)_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Boy With the Thorn In His Side - Demo Mix",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/25_The_Boy_With_the_Thorn_In_His_Side_-_Demo_Mix_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "The Boy With the Thorn In His Side (Demo Mix)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/26_The_Boy_With_the_Thorn_In_His_Side_(Demo_Mix)_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Boy With the Thorn In His Side - Live in Boston",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/27_The_Boy_With_the_Thorn_In_His_Side_-_Live_in_Boston_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "The Boy With the Thorn In His Side (Live in Boston)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/28_The_Boy_With_the_Thorn_In_His_Side_(Live_in_Boston)_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "The Kids Will Have Their Say (Feat. Sick Boy with former members of The Exploited and Die Kreuzen)",
+      "artist": "Steve Aoki",
+      "has_synced": false,
+      "path": "select/29_The_Kids_Will_Have_Their_Say_(Feat._Sick_Boy_with_former_members_of_The_Exploite_Steve_Aoki.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Bad Boy (with Young Thug)",
+      "artist": "Juice WRLD feat. Young Thug",
+      "has_synced": true,
+      "path": "select/30_Bad_Boy_(with_Young_Thug)_Juice_WRLD_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "The Boy With The Perpetual Nervousness - Demo Version",
+      "artist": "The Feelies",
+      "has_synced": false,
+      "path": "select/31_The_Boy_With_The_Perpetual_Nervousness_-_Demo_Version_The_Feelies.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boy with luv",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Boy_with_luv_BTS.txt"
+    }
+  ]
+}
